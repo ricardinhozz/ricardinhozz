@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ricardinhozz (Gabriel, 22 years old, Brazilian)
+- 👀 I’m interested in becoming a fullstack developer
+- 🌱 I’m currently learning React, JavaScript and mastering my abilities with backend Python
+- 📫 How to reach me : @maisumgabs on twitter, @gabrizeel on ig
