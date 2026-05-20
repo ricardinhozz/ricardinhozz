@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ricardinhozz (Gabriel Brazilian)
+- 👋 Hi, I’m Gabriel
 - 👀 I’m interested in becoming a data engineer
 - 🌱 I’m currently learning Docker, AWS, Azure and Databricks
 - 📫 How to reach me : @maisumgabs everywhere
